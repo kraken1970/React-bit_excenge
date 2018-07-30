@@ -1,3 +1,5 @@
+//дикая девочка
+
 import React, { Component } from "react";
 import "./Ticker.css";
 
